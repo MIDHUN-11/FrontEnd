@@ -1,7 +1,7 @@
 import './App.css';
-import Create from './crud operation/Create';
-import Update from './crud operation/Update';
-import Read from './crud operation/Read';
+import Create from './crudoperation/Create';
+import Update from './crudoperation/Update';
+import Read from './crudoperation/Read';
 import {BrowserRouter,Routes,Route} from 'react-router-dom'
     
 function App() {
