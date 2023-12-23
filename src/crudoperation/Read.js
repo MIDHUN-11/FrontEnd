@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react";
-import { Table, Button, Modal, Form, Input } from 'semantic-ui-react';
+import { Table, Button, TableCell, Form, Input } from 'semantic-ui-react';
 import { API_URL } from "../Constants/URL";
 import axios from "axios";
 import Modal from 'react-modal';
